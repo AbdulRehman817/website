@@ -1,4 +1,6 @@
-import { Route } from "./+types/_index";
+import { Style } from "util";
+import { Script } from "vm";
+
 
 export namespace Route {
   export interface MetaArgs {

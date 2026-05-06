@@ -1,4 +1,4 @@
-import type { Route } from "./+types/services";
+import type { Route } from "@/app/routes/+types/services";
 import { Phone, MapPin, CheckCircle } from "lucide-react";
 
 export function meta({}: Route.MetaArgs) {
